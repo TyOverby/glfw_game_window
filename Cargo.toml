@@ -22,7 +22,7 @@ git = "https://github.com/PistonDevelopers/piston"
 
 [dependencies.glfw]
 
-git = "https://github.com/bjz/glfw-rs"
+git = "https://github.com/TyOverby/glfw-rs.git"
 
 [dependencies.gl]
 
